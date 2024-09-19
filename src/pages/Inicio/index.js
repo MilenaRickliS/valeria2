@@ -27,7 +27,10 @@ function Inicio() {
         
           <div className="flex">
             <div className="produto prod1">
-              
+              <div className="sobre-produto1">
+                <p className="t1">Como Eliminar o Efeito Sanfona no Emagrecimento</p>
+                <p className="t2">Entenda que é possível não comer suas emoções. Essa culpa não é sua!</p>
+              </div>
               <div className="sobre-produto">
                 <p className="t1">Como Eliminar o Efeito Sanfona no Emagrecimento</p>
                 <p className="t2">Entenda que é possível não comer suas emoções. Essa culpa não é sua!</p>
@@ -36,7 +39,10 @@ function Inicio() {
               </div>
             </div>
             <div className="produto prod2">
-            
+            <div className="sobre-produto1">
+                <p className="t1">Como Sair do Efeito Sanfona e Nunca Mais Voltar</p>
+                <p className="t2">Entenda que é possível não comer suas emoções. Essa culpa não é sua!</p>
+              </div>
               <div className="sobre-produto">
                 <p className="t1">Como Sair do Efeito Sanfona e Nunca Mais Voltar</p>
                 <p className="t2">Entenda que é possível não comer suas emoções. Essa culpa não é sua!</p>
