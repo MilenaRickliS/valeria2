@@ -49,6 +49,41 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 20px;
 }
+.sobre-produto{
+    background-color: #A31431;
+    padding: 20px;
+    margin-top: 180px;
+    border-radius: 0px 0px 20px 20px;
+}
+.t1{
+    font-weight: 700;
+    color: #fff;
+}
+.t2{
+    font-weight: 100;
+    color: #fff;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+    transition: font-size 0.5s;
+}
+.link:hover{
+    font-size: 16px;
+    font-weight: 600;
+}
+.prod1{
+    background-image: url('../../assets/balanca.png');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.prod2{
+    background-image: url('../../assets/sanfona.png');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .frase{
     margin: 30px auto; 
     margin-bottom: 0px;      
