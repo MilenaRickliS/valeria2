@@ -1,7 +1,7 @@
 
 import "./style.css";
 import logo from '../../assets/68L_Valéria Spegel Rickli_Prancheta 1 cópia.png';
-import frase from '../../assets/Como sair do efeito sanfona e nunca mais voltar (1).png';
+import frase from '../../assets/efeito-sanfona.png';
 
 function Inicio() {
 

@@ -64,7 +64,7 @@
     position: absolute;
     top: 0;
     left: 10;
-    width: 38%;
+    width: 38.5%;
     height: 22%;
 }
 .t1{
@@ -131,7 +131,7 @@
     opacity: 1;
   }
 .frase{
-    margin: 30px auto; 
+    margin: 10px auto; 
     margin-bottom: 0px;      
     width: 400px;
     text-align: center;
