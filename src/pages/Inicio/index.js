@@ -25,7 +25,7 @@ function Inicio() {
           <h2>Você está um passo da sua compra!</h2>
         </div>
         
-          <div className="flex">
+          <div className="flex container">
             <div className="produto prod1">
               <div className="sobre-produto1">
                 <p className="t1">Como Eliminar o Efeito Sanfona no Emagrecimento</p>
@@ -33,7 +33,7 @@ function Inicio() {
               </div>
               <div className="sobre-produto">
                 <p className="t2">R$ 27,90</p>
-                <a className="link" href="#">Saiba mais! <i class="bi bi-arrow-right-short"></i></a>
+                <a className="link" href="https://valeriarickli.orbitpages.online/como-eliminar-o-efeito-sanfona-no-emagrecimento-2?fbclid=PAZXh0bgNhZW0CMTEAAabIILzpnh65rm8pz0efQxbpy9HQih9oFD1EzANLsNh8LacnweqqTnVkw6g_aem_mGJTFQNp0nzcLzObeGIAaw">Saiba mais! <i class="bi bi-arrow-right-short"></i></a>
               </div>
             </div>
             <div className="produto prod2">

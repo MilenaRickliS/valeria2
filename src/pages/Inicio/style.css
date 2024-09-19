@@ -41,6 +41,10 @@
 .titulo h4{
     color: #EC6781;
 }
+.container{
+    align-items: center;
+    justify-content: center;
+}
 .produto{
     max-width: 80%;
     width: 400px;

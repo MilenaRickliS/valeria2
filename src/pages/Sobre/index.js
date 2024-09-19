@@ -2,6 +2,7 @@
 import "./style.css";
 import logo from '../../assets/68L_Valéria Spegel Rickli_Prancheta 1 cópia.png';
 import frase from '../../assets/efeito-sanfona.png';
+import eu from '../../assets/IMG-20240730-WA0007-removebg.png';
 
 function Sobre() {
 
@@ -20,10 +21,7 @@ function Sobre() {
        </nav>
         
        <div>
-        <div className="titulo">
-          <h1>Bem-vindo(a)!</h1>
-          <h2>Você está um passo da sua compra!</h2>
-        </div>
+          <img className="img-eu" src={eu}/>
         
          
           
