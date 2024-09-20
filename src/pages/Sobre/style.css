@@ -3,3 +3,54 @@
     margin: 0 auto;
     display: flex;
 }
+.sobre-mim{
+    text-align: justify;
+    width: 70%;
+    margin: 30px auto;
+    font-weight: 800;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+
+}
+.sobre-mim a{
+    color: #EC6781;
+}
+.footer{
+    background-color: #4A54A0;
+    padding: 30px;
+    color: #ffaaaa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 12px;
+}
+.footer-nome{
+    margin-right: 40px;
+    
+}
+.footer-nome a{
+    color: #EC6781;
+    text-decoration: none;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 6px;
+    transition: .2s;
+}
+.footer-nome a:hover{
+    background-color: #EC6781;
+    color: #fff;
+}
+.footer-contato a{
+    color: #EC6781;
+    text-decoration: none;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 6px;
+    transition: .2s;
+    margin-right: 20px;
+}
+.footer-contato a:hover{
+    background-color: #EC6781;
+    color: #fff;
+}
