@@ -191,7 +191,7 @@
   }
   @media only screen and (max-width: 350px) {
     .sobre-produto1 {    
-        transform: translateY(140%);
+        transform: translateY(110%);
         
       }
 
