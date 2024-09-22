@@ -32,7 +32,7 @@ function Sobre() {
           <div className="contato">
             <a href="https://chat.whatsapp.com/LdIjeBl5fBUAPyHQ21dceH"><i class="bi bi-whatsapp"></i></a>
             <a href="https://www.instagram.com/valeriarickli?igsh=bWplb2hrMnB4MGI1"><i class="bi bi-instagram"></i></a>
-            <a href="mailto:valeriaspegelrickli@gmail.com"><i class="bi bi-envelope-at-fill"></i></a>
+            <a href="mailto:valeriaspegelrickli@gmail.com?subject=Ol%C3%A1%20do%20site&body=Oi%2C%20Vi%20seu%20site%20e%20queria%20entrar%20em%20contato!"><i class="bi bi-envelope-at-fill"></i></a>
             <a href="https://www.youtube.com/@studiovaleriarickli3802"><i class="bi bi-youtube"></i></a>
           </div>
           
