@@ -39,7 +39,7 @@ function Inicio() {
             <div className="produto prod2">
             <div className="sobre-produto1">
                 <p className="t1">Como Sair do Efeito Sanfona e Nunca Mais Voltar</p>
-                <p className="t2">Em uma mentoria de apenas 6 meses</p>
+                <p className="t2">Venha conhecer o que mudou na minha vida e mude a sua também! (Mentoria de 6 meses)</p>
               </div>
               <div className="sobre-produto">
                 <p className="t2">R$ 4997,00</p>
