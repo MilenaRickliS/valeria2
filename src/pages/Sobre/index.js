@@ -33,7 +33,7 @@ function Sobre() {
             <a href=""><i class="bi bi-whatsapp"></i></a>
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-envelope-at-fill"></i></a>
-            <a href=""><i class="bi bi-youtube"></i></a>
+            <a href="https://www.youtube.com/@studiovaleriarickli3802"><i class="bi bi-youtube"></i></a>
           </div>
           
        </div>
