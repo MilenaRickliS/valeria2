@@ -51,8 +51,7 @@ function Inicio() {
           <li>Estratégias para melhorar a qualidade do sono<p></p></li> 
           <li>Mentoria detalhada e explicativa<p></p></li>
           <li>Suporte emocional e motivacional<p></p></li> 
-          <li>Desenvolvido por uma especialista<p></p></li> 
-          <li>Tempo de acesso de 12 meses<p></p></li> 
+          <li>Desenvolvido por uma especialista<p>Criado por uma profissional com experiência na área, priorizando sua saúde e bem-estar</p></li> 
         </ul>
 
         <img></img>
