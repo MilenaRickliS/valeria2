@@ -69,17 +69,6 @@ function Inicio() {
           </div>
         </div>
 
-        <div className="opcao-mentoria">
-          <button className="botao-mentoria">
-              <p>MENTORIA COLETIVA </p>              
-              <p>R$ 1800,00</p>              
-          </button>
-          <button className="botao-mentoria">
-              <p>MENTORIA INDIVIDUAL</p>
-              <p>R$ 4997,00</p>            
-          </button>
-        </div>
-
         <div className="flex"><img src={grupo}/> </div>
 
         <h2>O que você recebe:</h2>

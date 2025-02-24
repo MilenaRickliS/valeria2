@@ -9,7 +9,6 @@ function Pagamento() {
   return (
     
       <div>
-        <img class="logo" src={logo}/>
 
         <div>
           <div>
