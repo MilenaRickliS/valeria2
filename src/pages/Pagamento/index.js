@@ -11,8 +11,8 @@ function Pagamento() {
       <div>
 
         <div>
-          <div>
-            <img></img>
+          <div className="inicio-pag">
+            <img class="logo" src={logo}/>
             <div>
               <h3>Titulo</h3>
               <p>Autor: Valéria Spegel Rickli</p>

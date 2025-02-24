@@ -9,8 +9,7 @@
     align-items: center;
 }
 .logo{
-    height: 100px;
-    margin: 20px auto;
+    height: 100px;    
     transition: 1s;
     cursor: pointer;
 }
